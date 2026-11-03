@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.iesvegademijas.tienda_informatica.TiendaInformaticaJdbcApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.821 s - in org.iesvegademijas.tienda_informatica.TiendaInformaticaJdbcApplicationTests

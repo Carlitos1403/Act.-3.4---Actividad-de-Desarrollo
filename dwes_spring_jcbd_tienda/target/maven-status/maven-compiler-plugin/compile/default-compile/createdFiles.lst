@@ -1,0 +1,6 @@
+org/iesvegademijas/tienda_informatica/modelo/Fabricante.class
+org/iesvegademijas/tienda_informatica/dao/FabricanteDAOImpl.class
+org/iesvegademijas/tienda_informatica/controlador/FabricanteController.class
+org/iesvegademijas/tienda_informatica/dao/FabricanteDAO.class
+org/iesvegademijas/tienda_informatica/TiendaInformaticaJdbcApplication.class
+org/iesvegademijas/tienda_informatica/servicio/FabricanteService.class

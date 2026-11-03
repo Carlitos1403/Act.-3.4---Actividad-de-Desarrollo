@@ -1,0 +1,16 @@
+/home/usuario/Escritorio/CRUDs-base-de-cliente/dwes_spring_jcbd_tienda/src/main/java/org/iesvegademijas/tienda_informatica/dao/ComercialDAOImpl.java
+/home/usuario/Escritorio/CRUDs-base-de-cliente/dwes_spring_jcbd_tienda/src/main/java/org/iesvegademijas/tienda_informatica/modelo/Comercial.java
+/home/usuario/Escritorio/CRUDs-base-de-cliente/dwes_spring_jcbd_tienda/src/main/java/org/iesvegademijas/tienda_informatica/servicio/FabricanteService.java
+/home/usuario/Escritorio/CRUDs-base-de-cliente/dwes_spring_jcbd_tienda/src/main/java/org/iesvegademijas/tienda_informatica/modelo/Fabricante.java
+/home/usuario/Escritorio/CRUDs-base-de-cliente/dwes_spring_jcbd_tienda/src/main/java/org/iesvegademijas/tienda_informatica/controlador/FabricanteController.java
+/home/usuario/Escritorio/CRUDs-base-de-cliente/dwes_spring_jcbd_tienda/src/main/java/org/iesvegademijas/tienda_informatica/servicio/ClienteService.java
+/home/usuario/Escritorio/CRUDs-base-de-cliente/dwes_spring_jcbd_tienda/src/main/java/org/iesvegademijas/tienda_informatica/controlador/ClienteController.java
+/home/usuario/Escritorio/CRUDs-base-de-cliente/dwes_spring_jcbd_tienda/src/main/java/org/iesvegademijas/tienda_informatica/dao/FabricanteDAOImpl.java
+/home/usuario/Escritorio/CRUDs-base-de-cliente/dwes_spring_jcbd_tienda/src/main/java/org/iesvegademijas/tienda_informatica/servicio/ComercialService.java
+/home/usuario/Escritorio/CRUDs-base-de-cliente/dwes_spring_jcbd_tienda/src/main/java/org/iesvegademijas/tienda_informatica/dao/ComercialDAO.java
+/home/usuario/Escritorio/CRUDs-base-de-cliente/dwes_spring_jcbd_tienda/src/main/java/org/iesvegademijas/tienda_informatica/modelo/Cliente.java
+/home/usuario/Escritorio/CRUDs-base-de-cliente/dwes_spring_jcbd_tienda/src/main/java/org/iesvegademijas/tienda_informatica/TiendaInformaticaJdbcApplication.java
+/home/usuario/Escritorio/CRUDs-base-de-cliente/dwes_spring_jcbd_tienda/src/main/java/org/iesvegademijas/tienda_informatica/dao/ClienteDAOImpl.java
+/home/usuario/Escritorio/CRUDs-base-de-cliente/dwes_spring_jcbd_tienda/src/main/java/org/iesvegademijas/tienda_informatica/dao/ClienteDAO.java
+/home/usuario/Escritorio/CRUDs-base-de-cliente/dwes_spring_jcbd_tienda/src/main/java/org/iesvegademijas/tienda_informatica/controlador/ComercialController.java
+/home/usuario/Escritorio/CRUDs-base-de-cliente/dwes_spring_jcbd_tienda/src/main/java/org/iesvegademijas/tienda_informatica/dao/FabricanteDAO.java
